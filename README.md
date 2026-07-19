@@ -9,15 +9,14 @@ Building agent infrastructure at **[10yx](https://10yx.co)** — mostly in Commo
 
 ## Featured
 
-| | |
-|---|---|
-| **[onebreath](https://github.com/louixs/onebreath)** | Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`). |
-| **[tsushin](https://github.com/louixs/tsushin)** | Übersicht widget rendering live macOS network throughput as a rolling SVG chart — no chart library, no CDN. Rewritten CoffeeScript → TypeScript in a 2026 overhaul. |
-| **[ubersicht_google_calendar](https://github.com/louixs/ubersicht_google_calendar)** / **[ubersicht_gmail](https://github.com/louixs/ubersicht_gmail)** | A small bundle of Übersicht widgets that surface Gmail and Calendar on the desktop. |
+**[onebreath](https://github.com/louixs/onebreath)** — Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`).
+
+**[tsushin](https://github.com/louixs/tsushin)** — Übersicht widget rendering live macOS network throughput as a rolling SVG chart — no chart library, no CDN. Rewritten CoffeeScript → TypeScript in a 2026 overhaul.
+
+**[ubersicht_google_calendar](https://github.com/louixs/ubersicht_google_calendar)** / **[ubersicht_gmail](https://github.com/louixs/ubersicht_gmail)** — A small bundle of Übersicht widgets that surface Gmail and Calendar on the desktop.
 
 ## Currently
 
 Building the agentic layer at 10yx — most of that work is closed-source for now, but the developer-experience tools that come out of building it (response-shaping Claude Code plugins, deployment/desktop widgets) get released as standalone open-source projects.
 
 <sub>Not into badge walls — if you want stats, they're one click away in the sidebar.</sub>
-
