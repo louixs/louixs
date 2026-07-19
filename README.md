@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ryuei (louixs) 👋
 
-<!--
-**louixs/louixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building agent infrastructure at **[10yx](https://10yx.co)** — mostly in Common Lisp — and open-sourcing the small, sharp developer tools that fall out of that work along the way.
 
-Here are some ideas to get you started:
+- 🔭 Currently building agentic tooling in Common Lisp at 10yx
+- 🛠️ Shipping small Claude Code plugins/skills and macOS dev-productivity tools in the open
+- 🐘 Long-time Lisp family: Clojure, Common Lisp, Emacs, Elisp
+- 🌐 [10yx.co](https://10yx.co) · [solvarv.com](https://solvarv.com) · [collapsingboundaries.com](https://collapsingboundaries.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+
+| | |
+|---|---|
+| **[onebreath](https://github.com/louixs/onebreath)** | Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`). |
+| **[tsushin](https://github.com/louixs/tsushin)** | Übersicht widget rendering live macOS network throughput as a rolling SVG chart — no chart library, no CDN. Rewritten CoffeeScript → TypeScript in a 2026 overhaul. |
+| **[ubersicht_google_calendar](https://github.com/louixs/ubersicht_google_calendar)** / **[ubersicht_gmail](https://github.com/louixs/ubersicht_gmail)** | A small bundle of Übersicht widgets that surface Gmail and Calendar on the desktop. |
+
+## Currently
+
+Building the agentic layer at 10yx — most of that work is closed-source for now, but the developer-experience tools that come out of building it (response-shaping Claude Code plugins, deployment/desktop widgets) get released as standalone open-source projects.
+
+<sub>Not into badge walls — if you want stats, they're one click away in the sidebar.</sub>
+
