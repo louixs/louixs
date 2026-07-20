@@ -9,7 +9,7 @@ Building agent infrastructure at **[10yx](https://10yx.co)**. Alongside that, I 
 
 ## Featured (open source)
 
-**[onebreath](https://github.com/louixs/onebreath)** — Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`), 118 npm downloads and counting.
+**[onebreath](https://github.com/louixs/onebreath)** ![npm downloads](https://img.shields.io/npm/dm/onebreath?label=npm%20downloads&color=blue) — Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`).
 
 **[tsushin](https://github.com/louixs/tsushin)** — Übersicht widget rendering live macOS network throughput as a rolling SVG chart — no chart library, no CDN. Rewritten CoffeeScript → TypeScript in a 2026 overhaul.
 
