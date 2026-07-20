@@ -1,6 +1,6 @@
 # Hi, I'm Ryuei (louixs) 👋
 
-Building agent infrastructure at **[10yx](https://10yx.co)**. Alongside that, I open-source small, sharp developer tools — a separate, ongoing habit.
+Building agent infrastructure at **[10yx](https://10yx.co)**. I'm also working on open-source projects.
 
 - 🔭 Building agentic infrastructure at 10yx
 - 🛠️ Open-sourcing Claude Code plugins/skills and macOS dev-productivity tools on the side
@@ -17,6 +17,6 @@ Building agent infrastructure at **[10yx](https://10yx.co)**. Alongside that, I 
 
 ## Currently
 
-Building the agentic layer at 10yx. The open-source projects above ship independently of that work.
+Building the agentic layer at 10yx.
 
 <sub>Not into badge walls — if you want stats, they're one click away in the sidebar.</sub>
