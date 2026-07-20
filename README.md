@@ -1,10 +1,10 @@
 # Hi, I'm Ryuei (louixs) 👋
 
-Building agent infrastructure at **[10yx](https://10yx.co)**, currently closed-source and mostly in Common Lisp. Alongside that, I open-source small, sharp developer tools — a separate, ongoing habit, not a byproduct of the Lisp work.
+Building agent infrastructure at **[10yx](https://10yx.co)**. Alongside that, I open-source small, sharp developer tools — a separate, ongoing habit.
 
-- 🔭 Building agentic infrastructure at 10yx — Common Lisp, closed-source for now
+- 🔭 Building agentic infrastructure at 10yx
 - 🛠️ Open-sourcing Claude Code plugins/skills and macOS dev-productivity tools on the side
-- 🐘 Lisp family by preference: Clojure, Common Lisp, Emacs, Elisp
+- 🐘 Lisp family by preference: Clojure, Emacs, Elisp
 - 🌐 [10yx.co](https://10yx.co) · [solvarv.com](https://solvarv.com) · [collapsingboundaries.com](https://collapsingboundaries.com)
 
 ## Featured (open source)
@@ -17,6 +17,6 @@ Building agent infrastructure at **[10yx](https://10yx.co)**, currently closed-s
 
 ## Currently
 
-Building the agentic layer at 10yx in Common Lisp — that work is closed-source for now. Nothing from it is public yet; the open-source projects above are a separate track.
+Building the agentic layer at 10yx. The open-source projects above ship independently of that work.
 
 <sub>Not into badge walls — if you want stats, they're one click away in the sidebar.</sub>
