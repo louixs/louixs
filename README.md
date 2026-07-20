@@ -1,13 +1,13 @@
 # Hi, I'm Ryuei (louixs) 👋
 
-Building agent infrastructure at **[10yx](https://10yx.co)** — mostly in Common Lisp — and open-sourcing the small, sharp developer tools that fall out of that work along the way.
+Building agent infrastructure at **[10yx](https://10yx.co)**, currently closed-source and mostly in Common Lisp. Alongside that, I open-source small, sharp developer tools — a separate, ongoing habit, not a byproduct of the Lisp work.
 
-- 🔭 Currently building agentic tooling in Common Lisp at 10yx
-- 🛠️ Shipping small Claude Code plugins/skills and macOS dev-productivity tools in the open
-- 🐘 Long-time Lisp family: Clojure, Common Lisp, Emacs, Elisp
+- 🔭 Building agentic infrastructure at 10yx — Common Lisp, closed-source for now
+- 🛠️ Open-sourcing Claude Code plugins/skills and macOS dev-productivity tools on the side
+- 🐘 Lisp family by preference: Clojure, Common Lisp, Emacs, Elisp
 - 🌐 [10yx.co](https://10yx.co) · [solvarv.com](https://solvarv.com) · [collapsingboundaries.com](https://collapsingboundaries.com)
 
-## Featured
+## Featured (open source)
 
 **[onebreath](https://github.com/louixs/onebreath)** — Claude Code plugin that forces one-sentence or one-paragraph answers — brevity as a hard constraint, not a suggestion. Ships as an npm-installable plugin (`npx onebreath`).
 
@@ -17,6 +17,6 @@ Building agent infrastructure at **[10yx](https://10yx.co)** — mostly in Commo
 
 ## Currently
 
-Building the agentic layer at 10yx — most of that work is closed-source for now, but the developer-experience tools that come out of building it (response-shaping Claude Code plugins, deployment/desktop widgets) get released as standalone open-source projects.
+Building the agentic layer at 10yx in Common Lisp — that work is closed-source for now. Nothing from it is public yet; the open-source projects above are a separate track.
 
 <sub>Not into badge walls — if you want stats, they're one click away in the sidebar.</sub>
