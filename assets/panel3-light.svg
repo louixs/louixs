@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Signal strip footer: calibration bars and labeled links as test points">
+<rect x="0" y="0" width="1200" height="160" fill="#D0D0CE"/>
+<text x="64" y="20" font-family="JetBrains Mono, monospace" font-size="10.5" letter-spacing="2" fill="#535355">SIGNAL STRIP — TEST POINTS</text>
+<rect x="64.0" y="28" width="178.7" height="14" fill="#C0C000"/>
+<rect x="242.7" y="28" width="178.7" height="14" fill="#00C0C0"/>
+<rect x="421.3" y="28" width="178.7" height="14" fill="#00C000"/>
+<rect x="600.0" y="28" width="178.7" height="14" fill="#C000C0"/>
+<rect x="778.7" y="28" width="178.7" height="14" fill="#C00000"/>
+<rect x="957.3" y="28" width="178.7" height="14" fill="#535355"/>
+<rect x="64" y="28" width="1072" height="14" fill="none" stroke="#1F1F23" stroke-width="0.75" opacity="0.3"/>
+<circle cx="69" cy="91" r="4" fill="none" stroke="#AB0202" stroke-width="1.5"/>
+<text x="82" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#1F1F23">10YX.CO</text>
+<text x="82" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#535355">STUDIO</text>
+<circle cx="461" cy="91" r="4" fill="none" stroke="#AB0202" stroke-width="1.5"/>
+<text x="474" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#1F1F23">SOLVARV.COM</text>
+<text x="474" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#535355">TIME-VIS, MACOS</text>
+<circle cx="853" cy="91" r="4" fill="none" stroke="#AB0202" stroke-width="1.5"/>
+<text x="866" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#1F1F23">COLLAPSINGBOUNDARIES.COM</text>
+<text x="866" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#535355">SIGNAL FICTION</text>
+<line x1="24" y1="144" x2="1176" y2="144" stroke="#535355" stroke-width="1" opacity="0.6"/>
+<path d="M24,144 L24,130" stroke="#535355" stroke-width="1.5" fill="none"/>
+<path d="M1176,144 L1176,130" stroke="#535355" stroke-width="1.5" fill="none"/>
+</svg>
