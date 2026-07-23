@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Signal strip footer: calibration bars and labeled links as test points">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Ground links footer: three real sites plotted as waypoints on a HUD ground track — 10yx.co studio, solvarv.com time-vis macos app, collapsingboundaries.com signal fiction">
 <rect x="0" y="0" width="1200" height="160" fill="#0d1117"/>
-<text x="64" y="20" font-family="JetBrains Mono, monospace" font-size="10.5" letter-spacing="2" fill="#7F7F7F">SIGNAL STRIP — TEST POINTS</text>
-<rect x="64.0" y="28" width="178.7" height="14" fill="#C0C000"/>
-<rect x="242.7" y="28" width="178.7" height="14" fill="#00C0C0"/>
-<rect x="421.3" y="28" width="178.7" height="14" fill="#00C000"/>
-<rect x="600.0" y="28" width="178.7" height="14" fill="#C000C0"/>
-<rect x="778.7" y="28" width="178.7" height="14" fill="#C00000"/>
-<rect x="957.3" y="28" width="178.7" height="14" fill="#7F7F7F"/>
-<rect x="64" y="28" width="1072" height="14" fill="none" stroke="#F2F2F2" stroke-width="0.75" opacity="0.3"/>
-<circle cx="69" cy="91" r="4" fill="none" stroke="#FF0000" stroke-width="1.5"/>
-<text x="82" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#F2F2F2">10YX.CO</text>
-<text x="82" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#7F7F7F">STUDIO</text>
-<circle cx="461" cy="91" r="4" fill="none" stroke="#FF0000" stroke-width="1.5"/>
-<text x="474" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#F2F2F2">SOLVARV.COM</text>
-<text x="474" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#7F7F7F">TIME-VIS, MACOS</text>
-<circle cx="853" cy="91" r="4" fill="none" stroke="#FF0000" stroke-width="1.5"/>
-<text x="866" y="96" font-family="JetBrains Mono, monospace" font-weight="700" font-size="15" letter-spacing="0.5" fill="#F2F2F2">COLLAPSINGBOUNDARIES.COM</text>
-<text x="866" y="114" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="1.5" fill="#7F7F7F">SIGNAL FICTION</text>
-<line x1="24" y1="144" x2="1176" y2="144" stroke="#7F7F7F" stroke-width="1" opacity="0.6"/>
-<path d="M24,144 L24,130" stroke="#7F7F7F" stroke-width="1.5" fill="none"/>
-<path d="M1176,144 L1176,130" stroke="#7F7F7F" stroke-width="1.5" fill="none"/>
+<g fill="none" stroke="#5B584C" stroke-width="1.5">
+<path d="M44,20 L20,20 L20,44"/>
+<path d="M1156,20 L1180,20 L1180,44"/>
+<path d="M44,140 L20,140 L20,116"/>
+<path d="M1156,140 L1180,140 L1180,116"/>
+</g>
+<text x="64" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.6" fill="#E8973F" text-anchor="start">GROUND LINKS &#8212; LIVE SITES</text>
+<line x1="64" y1="112" x2="1136" y2="112" stroke="#E8973F" stroke-width="1" opacity="0.3"/>
+<circle cx="90" cy="112" r="3" fill="#E8973F"/>
+<line x1="90" y1="112" x2="90" y2="100" stroke="#948F7C" stroke-width="0.75" opacity="0.75"/>
+<text x="100" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#ECE6D6" text-anchor="start">10YX.CO</text>
+<text x="100" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#948F7C" text-anchor="start">STUDIO</text>
+<circle cx="470" cy="112" r="3" fill="#E8973F"/>
+<line x1="470" y1="112" x2="470" y2="100" stroke="#948F7C" stroke-width="0.75" opacity="0.75"/>
+<text x="480" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#ECE6D6" text-anchor="start">SOLVARV.COM</text>
+<text x="480" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#948F7C" text-anchor="start">TIME-VIS, MACOS</text>
+<circle cx="860" cy="112" r="3" fill="#E8973F"/>
+<line x1="860" y1="112" x2="860" y2="100" stroke="#948F7C" stroke-width="0.75" opacity="0.75"/>
+<text x="870" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#ECE6D6" text-anchor="start">COLLAPSINGBOUNDARIES.COM</text>
+<text x="870" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#948F7C" text-anchor="start">SIGNAL FICTION</text>
 </svg>

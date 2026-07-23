@@ -1,26 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Projects spec-sheet header: labeled columns and signal ports">
-<rect x="0" y="0" width="1200" height="160" fill="#ffffff"/>
-<line x1="24" y1="16" x2="1176" y2="16" stroke="#535355" stroke-width="1.5"/>
-<line x1="24" y1="16" x2="24" y2="34" stroke="#535355" stroke-width="1.5"/>
-<line x1="1176" y1="16" x2="1176" y2="34" stroke="#535355" stroke-width="1.5"/>
-<text x="64" y="76" font-family="JetBrains Mono, monospace" font-weight="700" font-size="34" letter-spacing="1" fill="#1F1F23">PROJECT SPEC SHEET</text>
-<text x="64" y="96" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="1.5" fill="#AB0202">SHIPPED · LIVE DATA BELOW</text>
-<rect x="1010" y="44" width="28" height="28" fill="none" stroke="#535355" stroke-width="1.5"/>
-<circle cx="1024.0" cy="58.0" r="4" fill="#C0C000"/>
-<text x="1024.0" y="88" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="1" fill="#535355">SRC</text>
-<rect x="1056" y="44" width="28" height="28" fill="none" stroke="#535355" stroke-width="1.5"/>
-<circle cx="1070.0" cy="58.0" r="4" fill="#00C0C0"/>
-<text x="1070.0" y="88" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="1" fill="#535355">SIG</text>
-<rect x="1102" y="44" width="28" height="28" fill="none" stroke="#535355" stroke-width="1.5"/>
-<circle cx="1116.0" cy="58.0" r="4" fill="#00C000"/>
-<text x="1116.0" y="88" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="1" fill="#535355">OUT</text>
-<line x1="64" y1="98" x2="64" y2="122" stroke="#535355" stroke-width="1" opacity="0.6"/>
-<text x="64" y="140" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#535355">LABEL</text>
-<line x1="420" y1="98" x2="420" y2="122" stroke="#535355" stroke-width="1" opacity="0.6"/>
-<text x="420" y="140" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#535355">KIND</text>
-<line x1="660" y1="98" x2="660" y2="122" stroke="#535355" stroke-width="1" opacity="0.6"/>
-<text x="660" y="140" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#535355">SIGNAL</text>
-<line x1="900" y1="98" x2="900" y2="122" stroke="#535355" stroke-width="1" opacity="0.6"/>
-<text x="900" y="140" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="2" fill="#535355">NOTE</text>
-<line x1="24" y1="144" x2="1176" y2="144" stroke="#535355" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Output manifest header: HUD reticle framing, signal-chain port indicators, and the LABEL / KIND / SIGNAL / NOTE column headers for the verified-repo table below">
+<rect x="0" y="0" width="1200" height="160" fill="#122F4E"/>
+<rect x="44" y="14" width="400" height="112" fill="rgba(240,168,87,0.06)"/>
+<rect x="960" y="14" width="220" height="112" fill="rgba(242,239,226,0.045)"/>
+<g fill="none" stroke="#4C6480" stroke-width="1.5">
+<path d="M44,20 L20,20 L20,44"/>
+<path d="M1156,20 L1180,20 L1180,44"/>
+<path d="M44,140 L20,140 L20,116"/>
+<path d="M1156,140 L1180,140 L1180,116"/>
+</g>
+<line x1="460" y1="26" x2="990" y2="26" stroke="#F0A857" stroke-width="1" opacity="0.25"/>
+<text x="64" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#F0A857" text-anchor="start">OUTPUT LOG &#8212; SHIPPED</text>
+<text x="64" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="300" letter-spacing="5" fill="#F2EFE2" text-anchor="start">VERIFIED REPOS</text>
+<rect x="1000" y="26" width="22" height="22" fill="none" stroke="#F0A857" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="1011" cy="37" r="3" fill="#F0A857" opacity="0.85"/>
+<text x="1011" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#8CA0B4" text-anchor="middle">SRC</text>
+<rect x="1048" y="26" width="22" height="22" fill="none" stroke="#F0A857" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="1059" cy="37" r="3" fill="#F0A857" opacity="0.5"/>
+<text x="1059" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#8CA0B4" text-anchor="middle">SIG</text>
+<rect x="1096" y="26" width="22" height="22" fill="none" stroke="#F0A857" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="1107" cy="37" r="3" fill="#F0A857" opacity="0.3"/>
+<text x="1107" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#8CA0B4" text-anchor="middle">OUT</text>
+<line x1="64" y1="110" x2="64" y2="124" stroke="#4C6480" stroke-width="1" opacity="0.7"/>
+<line x1="420" y1="110" x2="420" y2="124" stroke="#4C6480" stroke-width="1" opacity="0.7"/>
+<line x1="660" y1="110" x2="660" y2="124" stroke="#4C6480" stroke-width="1" opacity="0.7"/>
+<line x1="900" y1="110" x2="900" y2="124" stroke="#4C6480" stroke-width="1" opacity="0.7"/>
+<text x="64" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2" fill="#8CA0B4" text-anchor="start">LABEL</text>
+<text x="420" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2" fill="#8CA0B4" text-anchor="start">KIND</text>
+<text x="660" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2" fill="#8CA0B4" text-anchor="start">SIGNAL</text>
+<text x="900" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2" fill="#8CA0B4" text-anchor="start">NOTE</text>
 </svg>
