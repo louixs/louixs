@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Signal strip footer: calibration bars and labeled links as test points">
-<rect x="0" y="0" width="1200" height="160" fill="#101014"/>
+<rect x="0" y="0" width="1200" height="160" fill="#0d1117"/>
 <text x="64" y="20" font-family="JetBrains Mono, monospace" font-size="10.5" letter-spacing="2" fill="#7F7F7F">SIGNAL STRIP — TEST POINTS</text>
 <rect x="64.0" y="28" width="178.7" height="14" fill="#C0C000"/>
 <rect x="242.7" y="28" width="178.7" height="14" fill="#00C0C0"/>
