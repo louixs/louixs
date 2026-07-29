@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Ground links footer: three real sites plotted as waypoints on a HUD ground track — 10yx.co studio, solvarv.com time-vis macos app, collapsingboundaries.com signal fiction">
-<rect x="0" y="0" width="1200" height="160" fill="#122F4E"/>
-<g fill="none" stroke="#4C6480" stroke-width="1.5">
+<rect x="0" y="0" width="1200" height="160" fill="#ffffff"/>
+<g fill="none" stroke="#33465A" stroke-width="1.5">
 <path d="M44,20 L20,20 L20,44"/>
 <path d="M1156,20 L1180,20 L1180,44"/>
 <path d="M44,140 L20,140 L20,116"/>
 <path d="M1156,140 L1180,140 L1180,116"/>
 </g>
-<text x="64" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.6" fill="#F0A857" text-anchor="start">GROUND LINKS &#8212; LIVE SITES</text>
-<line x1="64" y1="112" x2="1136" y2="112" stroke="#F0A857" stroke-width="1" opacity="0.3"/>
-<circle cx="90" cy="112" r="3" fill="#F0A857"/>
-<line x1="90" y1="112" x2="90" y2="100" stroke="#8CA0B4" stroke-width="0.75" opacity="0.75"/>
-<text x="100" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#F2EFE2" text-anchor="start">10YX.CO</text>
-<text x="100" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#8CA0B4" text-anchor="start">STUDIO</text>
-<circle cx="470" cy="112" r="3" fill="#F0A857"/>
-<line x1="470" y1="112" x2="470" y2="100" stroke="#8CA0B4" stroke-width="0.75" opacity="0.75"/>
-<text x="480" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#F2EFE2" text-anchor="start">SOLVARV.COM</text>
-<text x="480" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#8CA0B4" text-anchor="start">TIME-VIS, MACOS</text>
-<circle cx="860" cy="112" r="3" fill="#F0A857"/>
-<line x1="860" y1="112" x2="860" y2="100" stroke="#8CA0B4" stroke-width="0.75" opacity="0.75"/>
-<text x="870" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#F2EFE2" text-anchor="start">COLLAPSINGBOUNDARIES.COM</text>
-<text x="870" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#8CA0B4" text-anchor="start">SIGNAL FICTION</text>
+<text x="64" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.6" fill="#B8701C" text-anchor="start">GROUND LINKS &#8212; LIVE SITES</text>
+<line x1="64" y1="112" x2="1136" y2="112" stroke="#B8701C" stroke-width="1" opacity="0.3"/>
+<circle cx="90" cy="112" r="3" fill="#B8701C"/>
+<line x1="90" y1="112" x2="90" y2="100" stroke="#445868" stroke-width="0.75" opacity="0.75"/>
+<text x="100" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#1F242C" text-anchor="start">10YX.CO</text>
+<text x="100" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#445868" text-anchor="start">STUDIO</text>
+<circle cx="470" cy="112" r="3" fill="#B8701C"/>
+<line x1="470" y1="112" x2="470" y2="100" stroke="#445868" stroke-width="0.75" opacity="0.75"/>
+<text x="480" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#1F242C" text-anchor="start">SOLVARV.COM</text>
+<text x="480" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#445868" text-anchor="start">TIME-VIS, MACOS</text>
+<circle cx="860" cy="112" r="3" fill="#B8701C"/>
+<line x1="860" y1="112" x2="860" y2="100" stroke="#445868" stroke-width="0.75" opacity="0.75"/>
+<text x="870" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#1F242C" text-anchor="start">COLLAPSINGBOUNDARIES.COM</text>
+<text x="870" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="1.8" fill="#445868" text-anchor="start">SIGNAL FICTION</text>
 </svg>
