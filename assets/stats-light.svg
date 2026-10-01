@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-labelledby="stats-title stats-desc">
 <title id="stats-title">louixs GitHub stats panel (light)</title>
-<desc id="stats-desc">Data-art stats panel for github.com/louixs: 9,990 contributions in the past year rendered as a 52-week contribution ridgeline from OCT '25 to SEP '26, 41 public repositories, 27 total stars across non-fork repositories, and contribution-cadence metrics covering all contributions (including private repos): 27.1 average contributions per day, a peak week of 522 (MAR '26), and a longest streak of 99 consecutive days. Generated 2026-09-30.</desc>
+<desc id="stats-desc">Data-art stats panel for github.com/louixs: 9,990 contributions in the past year rendered as a 52-week contribution ridgeline from OCT '25 to OCT '26, 41 public repositories, 27 total stars across non-fork repositories, and contribution-cadence metrics covering all contributions (including private repos): 27.1 average contributions per day, a peak week of 522 (MAR '26), and a longest streak of 99 consecutive days. Generated 2026-10-01.</desc>
 
 <style>
 @keyframes glintmove{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
@@ -37,7 +37,7 @@
 <circle cx="558.9" cy="96" r="2.5" fill="#C0751D"/>
 <rect x="328" y="204" width="512" height="1" fill="#767065" opacity="0.6"/>
 <text x="328" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#5C5747" text-anchor="start">OCT '25</text>
-<text x="840" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#5C5747" text-anchor="end">SEP '26</text>
+<text x="840" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#5C5747" text-anchor="end">OCT '26</text>
 
 <text x="900" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="#5C5747" text-anchor="start">CADENCE · ALL CONTRIBUTIONS</text>
 
@@ -56,5 +56,5 @@
 <g class="pulse">
 <circle cx="848" cy="237" r="2.5" fill="#C0751D"/>
 </g>
-<text x="840" y="241" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#5C5747" text-anchor="end">UPDATED 2026-09-30</text>
+<text x="840" y="241" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#5C5747" text-anchor="end">UPDATED 2026-10-01</text>
 </svg>
